@@ -1,0 +1,49 @@
+.moviefinder {
+    position: absolute;
+    left: 41.6%;
+    right: 41.6%;
+    top: 8.89%;
+    bottom: 87.16%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 32px;
+/* identical to box height, or 89% */
+    color: #2791C2;
+}
+
+.container {
+    height: 810px;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    background-image: url(img/fondo.png);
+    position: absolute;
+}
+
+.login-box {
+    position: absolute;
+    width: 445px;
+    height: 570px;
+    left: 498px;
+    top: 160px;
+
+    background: rgba(49, 49, 49, 0.95);
+    box-shadow: 0px 6px 6px rgba(11, 11, 11, 0.8);
+    border-radius: 10px;
+}
+
+/* Welcome! Log in or Register */
+.title {
+    color: #FFFFFF;
+    text-align: center;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+}
+
